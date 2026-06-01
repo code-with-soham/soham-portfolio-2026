@@ -1,4 +1,4 @@
-# 🚀 Soham Kundu Portfolio
+<img width="1896" height="923" alt="home page" src="https://github.com/user-attachments/assets/b4a985b7-6bbf-4383-b586-efc08a6678f4" /># 🚀 Soham Kundu Portfolio
 
 A modern and interactive Full Stack Developer portfolio built with React, TypeScript, Three.js, GSAP, and Vite.
 
@@ -183,11 +183,13 @@ A complete event management and booking platform with user authentication and ti
 
 Add screenshots of the following sections:
 
-* Home Page
-* About Section
-* Skills Section
-* Projects Section
-* Contact Section
+* <img width="1896" height="923" alt="home page" src="https://github.com/user-attachments/assets/95bc617a-58ca-4b3f-aa5e-f06adadab14b" />
+* <img width="1897" height="923" alt="about page" src="https://github.com/user-attachments/assets/9bc891dd-1824-4281-b060-73cc627beced" />
+* <img width="1895" height="916" alt="skills" src="https://github.com/user-attachments/assets/ed88e78f-1d57-4bd8-8f77-fc2ed6c6ed4e" />
+<img width="1894" height="928" alt="education" src="https://github.com/user-attachments/assets/728e16b4-37bd-425b-88e4-f48978df41e0" />
+* <img width="1896" height="926" alt="image" src="https://github.com/user-attachments/assets/cce0b216-0146-4fe2-9170-69fe72a0d867" />
+* <img width="1891" height="906" alt="contact" src="https://github.com/user-attachments/assets/622dab62-2a8e-4c1e-95a7-990c6e765293" />
+
 
 ---
 
